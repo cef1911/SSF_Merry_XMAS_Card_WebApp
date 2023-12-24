@@ -38,15 +38,21 @@ st.write("Tribute To Stacey Franklin")
 # st.image(imagetwo, caption='Amanda Franklin')
 
 
-#imagethree = Image.open("memories.png")
+imagethree = Image.open("memories.png")
 
-#st.image(imagethree, caption='Stacey Franklin')
+st.image(imagethree, caption='Stacey Franklin')
 
 
-st.write("Love You Stacey, Chris")
+imagefour = Image.open("WarhawkBanner2023.jpg")
+
+st.image(imagefour, caption='WarHawkBanner')
+
+
+st.markdown('<p class="big-font">Merry Christmas To Stacey Franklin, Love You Chris!!</p>', unsafe_allow_html=True)
+#st.write("Love You Stacey, Chris")
 
 st.balloons()
-st.snow()
+#st.snow()
 
 st.snow()
 
