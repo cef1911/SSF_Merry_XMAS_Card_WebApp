@@ -30,8 +30,8 @@ st.image(image2, caption='Good Looking Couple, Merry Christmas Stacey 2023')
 
 
 
-st.write("Tribute To Stacey Franklin")
-
+#st.write("Tribute To Stacey Franklin")
+st.markdown('<p class="big-font">Tribute To Stacey Franklin!!</p>', unsafe_allow_html=True)
 
 # imagetwo = Image.open("birthday.jpeg")
 
@@ -48,7 +48,7 @@ imagefour = Image.open("WarhawkBanner2023.jpg")
 st.image(imagefour, caption='WarHawkBanner')
 
 
-st.markdown('<p class="big-font">Merry Christmas To Stacey Franklin, Love You Chris!!</p>', unsafe_allow_html=True)
+st.markdown('<p class="big-font">Bloomfield Warhawk Stacey Franklin, Love You Chris!!</p>', unsafe_allow_html=True)
 #st.write("Love You Stacey, Chris")
 
 st.balloons()
