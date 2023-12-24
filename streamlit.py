@@ -38,9 +38,9 @@ st.write("Tribute To Stacey Franklin")
 # st.image(imagetwo, caption='Amanda Franklin')
 
 
-imagethree = Image.open("memories.png")
+#imagethree = Image.open("memories.png")
 
-st.image(imagethree, caption='Stacey Franklin')
+#st.image(imagethree, caption='Stacey Franklin')
 
 
 imagefour = Image.open("WarhawkBanner2023.jpg")
