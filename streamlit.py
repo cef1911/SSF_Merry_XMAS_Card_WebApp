@@ -26,7 +26,7 @@ st.image(image, caption='Stacey Franklin, Merry Christmas 2023')
 
 image2 = Image.open("GoodLookingCoupleMerryXmas2023.PNG")
 
-#st.image(image2, caption='Good Looking Couple, Merry Christmas Stacey 2023')
+st.image(image2, caption='Good Looking Couple, Merry Christmas Stacey 2023')
 
 
 
