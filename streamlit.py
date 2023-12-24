@@ -24,6 +24,12 @@ image = Image.open("twistedpizzasf.PNG")
 
 st.image(image, caption='Stacey Franklin, Merry Christmas 2023')
 
+#image2 = Image.open(" .PNG")
+
+#st.image(image2, caption='Good Looking Couple, Merry Christmas Stacey 2023')
+
+
+
 st.write("Tribute To Stacey Franklin")
 
 
